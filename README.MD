@@ -1,5 +1,7 @@
 # Algoritmo e Estrutura de dados
 
+> Utilizar Struct;
+
 `1` CADASTRAR AUTOR
 
 `2` LISTAR AUTOR
@@ -12,4 +14,3 @@
 
 `6` LISTAR PERSONAGEM
 
-> Utilizar Struct;
