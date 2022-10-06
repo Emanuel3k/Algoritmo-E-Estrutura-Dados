@@ -56,9 +56,7 @@ void ListJogo();        // OK
 Personagem *CadPerso(); // OK
 void ListPerso();       // OK
 void *CadJogoEmp();     // OK
-void ListJogoEmp();     // DESNECESSARIO ? SIM
 void *CadPersoJogo();   // OK
-void LisPersoJogo();    // DESNECESSARIO ? SIM
 
 // MAIN CODE
 void main()
