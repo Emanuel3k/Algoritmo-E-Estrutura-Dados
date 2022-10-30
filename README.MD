@@ -2,7 +2,7 @@
 
 > Utilizar Struct;
 > Utilizar Ponteiros;
-> Utilizar Função; 
+> Utilizar Lista Encadeada;
 
 `1` CADASTRAR EMPRESA
 
