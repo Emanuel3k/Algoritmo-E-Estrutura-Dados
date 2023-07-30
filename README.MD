@@ -1,5 +1,7 @@
 # Algoritmo e Estrutura de dados
 
+## Projeto desenvolvido durante o 2º semestre da faculdade, objetivo de aprender como funciona Structs, ponteiros e listas em C
+
 > Utilizar Struct;
 > Utilizar Ponteiros;
 > Utilizar Lista Encadeada;
